@@ -1,0 +1,6 @@
+@DaHorta.Api_HostAddress = http://localhost:5107
+
+GET {{DaHorta.Api_HostAddress}}/health
+Accept: application/json
+
+###
